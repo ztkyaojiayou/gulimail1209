@@ -11,7 +11,7 @@ public class UmsMember implements Serializable {
 
     @Id//(Spring Jpa中的知识）标注用于声明一个实体类的属性映射为数据库的主键列。因此不再需要像mybatis一样通过resultMap来一一映射。
     // 该属性通常置于属性声明语句之前，可与声明语句同行，也可写在单独行上。（牛逼啊！！！）
-    //@GeneratedValue(strategy = GenerationType.IDENTITY)//主键返回策略，配合通用mapper使用
+    @GeneratedValue(strategy = GenerationType.IDENTITY)//主键返回策略，配合通用mapper使用
     private String id;//为了配合前端返回的json串，主键/外键一般用String类型
     private String memberLevelId;
     private String username;
