@@ -1,7 +1,6 @@
 package com.ztk.gulimall.user.mapper;
 
-import com.ztk.gulimall.user.bean.UmsMember;
-import com.ztk.gulimall.user.bean.UmsMember;
+import com.ztk.gulimall.bean.UmsMember;
 import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;

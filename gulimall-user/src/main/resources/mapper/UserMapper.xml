@@ -3,12 +3,13 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<!--namespace用于标示是给哪个Mapper接口做具体实现-->
+<!--0.namespace用于标示是给哪个Mapper接口做具体实现-->
 <mapper namespace="com.ztk.gulimall.user.mapper.UserMapper">
-    <!--这个是专门给mapper接口中的接口用于配置（具体实现）SQL语句的配置文件，若是注解，则不需要此文件啦，直接在Mapper/Dao接口的对应方法上使用注解配置即可-->
-<!--“select t.* from ums_member t” 中的t是对ums_member表取别名/重命名的意思-->
+    <!--1.这个是专门给mapper接口中的接口用于配置（具体实现）SQL语句的配置文件，若是注解，则不需要此文件啦，直接在Mapper/Dao接口的对应方法上使用注解配置即可-->
+    <!--2.当使用“通用mapper”工具箱时，则不需要写此xml文件-->
 
-    <select id="selectAllUser" resultType="com.ztk.gulimall.user.bean.UmsMember">
+    <!--3.“select t.* from ums_member t” 中的t是对ums_member表取别名/重命名的意思-->
+    <select id="selectAllUser" resultType="com.ztk.gulimall.bean.UmsMember">
     select t.* from ums_member t
 </select>
 
