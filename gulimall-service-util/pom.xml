@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ztk.gulimall</groupId>
+    <artifactId>gulimall-service-util</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!--1.引入版本号-->
+    <parent>
+        <groupId>com.ztk.gulimall</groupId>
+        <artifactId>gulimall-parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <!--2.与业务层有关的通用依赖放在这个子模块当中，以供调用-->
+<dependencies>
+    <!--2.1先引用通用工具包（gulimall-common-util）-->
+    <dependency>
+        <groupId>com.ztk.gulimall</groupId>
+        <artifactId>gulimall-common-util</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </dependency>
+
+    <!--2.2再引用与service层相关的依赖-->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-jdbc</artifactId>
+    </dependency>
+
+    <dependency>
+        <groupId>org.mybatis.spring.boot</groupId>
+        <artifactId>mybatis-spring-boot-starter</artifactId>
+    </dependency>
+
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <scope>runtime</scope>
+    </dependency>
+
+    <dependency>
+        <groupId>redis.clients</groupId>
+        <artifactId>jedis</artifactId>
+    </dependency>
+
+</dependencies>
+
+
+
+</project>

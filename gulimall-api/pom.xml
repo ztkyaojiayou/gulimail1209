@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ztk.gulimall</groupId>
+    <artifactId>gulimall-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!--对于整个项目的开发来说，一些通用的工具类应该放在一个专门的项目中，然后在需要用到的项目中引入对应的工具包/依赖即可；这个子模块就是干这件事情的-->
+
+<dependencies>
+    <!-- 通用mapper工具包依赖 -->
+    <dependency>
+        <groupId>tk.mybatis</groupId>
+        <artifactId>mapper-spring-boot-starter</artifactId>
+        <version>1.2.3</version>
+        <exclusions>
+            <exclusion>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-jdbc</artifactId>
+            </exclusion>
+        </exclusions>
+    </dependency>
+
+</dependencies>
+
+</project>
