@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>Title</title>
+</head>
+<body>
+hello thymeleaf !
+<br>
+<!--取值-->
+{hello}
+<br>
+<!--下面这个红色波浪线是idea本身的bug，不用管它-->
+<p th:text="${hello}">打低值</p>
+</body>
+</html>
