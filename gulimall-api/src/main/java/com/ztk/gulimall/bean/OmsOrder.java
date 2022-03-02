@@ -4,6 +4,8 @@ import javax.persistence.Id;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
+import java.util.List;
+import javax.persistence.Transient;
 
 public class OmsOrder implements Serializable {
 
@@ -24,7 +26,7 @@ public class OmsOrder implements Serializable {
     private BigDecimal discountAmount;
     private int        payType;
     private int sourceType;
-    private int        status;
+    private String        status;
     private int orderType;
     private String        deliveryCompany;
     private String deliverySn;
@@ -53,6 +55,9 @@ public class OmsOrder implements Serializable {
     private Date         receiveTime;
     private Date commentTime;
     private Date        modifyTime;
+
+    @Transient
+    List<OmsOrderItem> omsOrderItems;
 
     public String getId() {
         return id;
@@ -174,11 +179,11 @@ public class OmsOrder implements Serializable {
         this.sourceType = sourceType;
     }
 
-    public int getStatus() {
+    public String getStatus() {
         return status;
     }
 
-    public void setStatus(int status) {
+    public void setStatus(String status) {
         this.status = status;
     }
 
@@ -404,5 +409,13 @@ public class OmsOrder implements Serializable {
 
     public void setModifyTime(Date modifyTime) {
         this.modifyTime = modifyTime;
+    }
+
+    public void setOmsOrderItems(List<OmsOrderItem> omsOrderItems) {
+    }
+
+
+    public List<OmsOrderItem> getOmsOrderItems() {
+        return omsOrderItems;
     }
 }

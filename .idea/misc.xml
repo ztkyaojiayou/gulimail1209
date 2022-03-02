@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gulimall-user/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-manage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs-client-java/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaiduNetdiskDownload/2019最新Java项目实战《谷粒商城》/day08-2019年6月01日/02-代码/代码/gmall0105/gmall-redisson-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../BaiduNetdiskDownload/2019最新Java项目实战《谷粒商城》/day09-2019年6月03日/02-代码/代码/gmall0105/gmall-redisson-test/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-redisson-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../课程代码/gulimall-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../课程代码/gulimall-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../课程代码/gulimall-passport-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-seckill/pom.xml" />
+        <option value="$PROJECT_DIR$/gware-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gulimall-search-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/gmall-redisson-test/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8.0_181" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

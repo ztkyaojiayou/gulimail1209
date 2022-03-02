@@ -9,6 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 
+//把商品图片上传到fdfs服务器
 public class PmsUploadUtil {
     public static String uploadImage(MultipartFile multipartFile) {//MultipartFile类用于接收从浏览器（后台管理系统）传过来的文件
         String imUrl ="http://192.168.16.129";

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-order-service/gmall-order-service.iml" filepath="$PROJECT_DIR$/gulimall-order-service/gmall-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-passport-web/gmall-passport-web.iml" filepath="$PROJECT_DIR$/gulimall-passport-web/gmall-passport-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-payment/gmall-payment.iml" filepath="$PROJECT_DIR$/gulimall-payment/gmall-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-api/gulimall-api.iml" filepath="$PROJECT_DIR$/gulimall-api/gulimall-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-cart-service/gulimall-cart-service.iml" filepath="$PROJECT_DIR$/gulimall-cart-service/gulimall-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-cart-web/gulimall-cart-web.iml" filepath="$PROJECT_DIR$/gulimall-cart-web/gulimall-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-common-util/gulimall-common-util.iml" filepath="$PROJECT_DIR$/gulimall-common-util/gulimall-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-item-web/gulimall-item-web.iml" filepath="$PROJECT_DIR$/gulimall-item-web/gulimall-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-manage-service/gulimall-manage-service.iml" filepath="$PROJECT_DIR$/gulimall-manage-service/gulimall-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-manage-web/gulimall-manage-web.iml" filepath="$PROJECT_DIR$/gulimall-manage-web/gulimall-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-order-service/gulimall-order-service.iml" filepath="$PROJECT_DIR$/gulimall-order-service/gulimall-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-order-web/gulimall-order-web.iml" filepath="$PROJECT_DIR$/gulimall-order-web/gulimall-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-parent/gulimall-parent.iml" filepath="$PROJECT_DIR$/gulimall-parent/gulimall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-redisson-test/gulimall-redisson-test.iml" filepath="$PROJECT_DIR$/gulimall-redisson-test/gulimall-redisson-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-search-service/gulimall-search-service.iml" filepath="$PROJECT_DIR$/gulimall-search-service/gulimall-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-search-web/gulimall-search-web.iml" filepath="$PROJECT_DIR$/gulimall-search-web/gulimall-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-seckill/gulimall-seckill.iml" filepath="$PROJECT_DIR$/gulimall-seckill/gulimall-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-service-util/gulimall-service-util.iml" filepath="$PROJECT_DIR$/gulimall-service-util/gulimall-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-user/gulimall-user.iml" filepath="$PROJECT_DIR$/gulimall-user/gulimall-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-user-service/gulimall-user-service.iml" filepath="$PROJECT_DIR$/gulimall-user-service/gulimall-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-user-web/gulimall-user-web.iml" filepath="$PROJECT_DIR$/gulimall-user-web/gulimall-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall-web-util/gulimall-web-util.iml" filepath="$PROJECT_DIR$/gulimall-web-util/gulimall-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gulimall1209.iml" filepath="$PROJECT_DIR$/gulimall1209.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guliware-manage/guliware-manage.iml" filepath="$PROJECT_DIR$/guliware-manage/guliware-manage.iml" />
+    </modules>
+  </component>
+</project>

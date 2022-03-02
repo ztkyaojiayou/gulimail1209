@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-client-java/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-common-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-item-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-manage-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-manage-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-order-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-passport-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-redisson-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-redisson-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-search-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-service-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-web-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gulimall-web-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guliware-manage" charset="UTF-8" />
+  </component>
+</project>

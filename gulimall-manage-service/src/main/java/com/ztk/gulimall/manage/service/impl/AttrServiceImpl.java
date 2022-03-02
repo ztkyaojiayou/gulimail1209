@@ -15,6 +15,8 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
+
 //AttrService这个接口在gulimall-api这个模块里面（其实所有的service接口都在这个模块里面），这里只需要实现它即可
 @Service
 public class AttrServiceImpl implements AttrService {
@@ -91,5 +93,10 @@ public class AttrServiceImpl implements AttrService {
     @Override
     public List<PmsBaseSaleAttr> baseSaleAttrList() {
         return pmsBaseSaleAttrMapper.selectAll();
+    }
+
+    @Override
+    public List<PmsBaseAttrInfo> getAttrValueListByValueId(Set<String> valueIdSet) {
+        return null;
     }
 }

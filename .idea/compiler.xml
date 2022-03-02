@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gulimall-common-util" />
+        <module name="gulimall-user-service" />
+        <module name="gulimall-search-web" />
+        <module name="gulimall-order-web" />
+        <module name="gulimall-manage-web" />
+        <module name="gulimall-user-web" />
+        <module name="gulimall-user" />
+        <module name="gulimall-service-util" />
+        <module name="gulimall-search-service" />
+        <module name="gulimall-item-web" />
+        <module name="gulimall-cart-service" />
+        <module name="gulimall-web-util" />
+        <module name="gmall-order-service" />
+        <module name="fastdfs-client-java" />
+        <module name="gulimall-order-service" />
+        <module name="gmall-payment" />
+        <module name="gulimall-manage-service" />
+        <module name="gulimall-seckill" />
+        <module name="gmall-passport-web" />
+        <module name="gulimall-cart-web" />
+        <module name="gulimall-redisson-test" />
+        <module name="gulimall-api" />
+        <module name="guliware-manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="gmall-order-service" target="1.8" />
+      <module name="gmall-order-service (1) (com.atguigu.gmall)" target="1.8" />
+      <module name="gmall-order-web" target="1.8" />
+      <module name="gmall-passport-web" target="1.8" />
+      <module name="gmall-payment" target="1.8" />
+      <module name="gmall-search-service" target="1.8" />
+      <module name="gulimall-api" target="1.5" />
+      <module name="gulimall-cart-service" target="1.8" />
+      <module name="gulimall-cart-web" target="1.8" />
+      <module name="gulimall-common-util" target="1.8" />
+      <module name="gulimall-item-web" target="1.8" />
+      <module name="gulimall-manage-service" target="1.8" />
+      <module name="gulimall-manage-web" target="1.8" />
+      <module name="gulimall-order-service" target="1.8" />
+      <module name="gulimall-order-web" target="1.8" />
+      <module name="gulimall-parent" target="1.8" />
+      <module name="gulimall-passport-web" target="1.8" />
+      <module name="gulimall-redisson-test" target="1.8" />
+      <module name="gulimall-search-service" target="1.8" />
+      <module name="gulimall-search-web" target="1.8" />
+      <module name="gulimall-seckill" target="1.8" />
+      <module name="gulimall-service-util" target="1.8" />
+      <module name="gulimall-user" target="1.8" />
+      <module name="gulimall-user-service" target="1.8" />
+      <module name="gulimall-user-web" target="1.8" />
+      <module name="gulimall-web-util" target="1.8" />
+      <module name="guliware-manage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="gulimall-common-util" options="" />
+      <module name="gulimall-item-web" options="" />
+      <module name="gulimall-manage-service" options="" />
+      <module name="gulimall-manage-web" options="" />
+      <module name="gulimall-order-service" options="" />
+      <module name="gulimall-order-web" options="" />
+      <module name="gulimall-redisson-test" options="" />
+      <module name="gulimall-service-util" options="" />
+      <module name="gulimall-user" options="" />
+      <module name="gulimall-user-service" options="" />
+      <module name="gulimall-user-web" options="" />
+    </option>
+  </component>
+</project>

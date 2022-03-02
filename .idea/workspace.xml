@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07ac8ec3-4950-4043-be9b-b6216eeca282" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsCartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsCartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsOrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/OmsOrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PaymentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PaymentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PmsBrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PmsBrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PmsProductSaleAttrValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/PmsProductSaleAttrValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/UmsMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/bean/UmsMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/AttrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/AttrService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/SkuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/SkuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/SpuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/SpuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsCartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsCartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsOrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/OmsOrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PaymentInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PaymentInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsProductSaleAttrValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsProductSaleAttrValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsSkuImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsSkuImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsSkuInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/PmsSkuInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/UmsMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/bean/UmsMember.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/AttrService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/AttrService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/SpuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/SpuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-api/target/classes/com/ztk/gulimall/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/GulimallManageServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/GulimallManageServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/mapper/PmsProductSaleAttrMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/mapper/PmsProductSaleAttrMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/mapper/PmsSkuInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/mapper/PmsSkuInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/AttrServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/AttrServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/SkuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/SkuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/SpuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/java/com/ztk/gulimall/manage/service/impl/SpuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-manage-web/src/main/java/com/ztk/gulimall/manage/util/PmsUploadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-manage-web/src/main/java/com/ztk/gulimall/manage/util/PmsUploadUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-service-util/gulimall-service-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-service-util/gulimall-service-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-service-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-user-service/src/main/java/com/ztk/gulimall/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-user-service/src/main/java/com/ztk/gulimall/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-web-util/gulimall-web-util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-web-util/gulimall-web-util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-web-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-web-util/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gulimall1209@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gulimall1209@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="gulimall1209@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="gulimall1209: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlqeCYklfVIaxPTZmr8aYvaewh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/gulimall-api/src/main/java/com/ztk/gulimall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ztk.gulimall.service" />
+      <recent name="com.ztk.gulimall.manage.mapper" />
+      <recent name="com.ztk.gulimall" />
+      <recent name="com.ztk.gulimall.manage.util" />
+      <recent name="com.ztk.gulimall.user.bean" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ztk.gulimall" />
+      <recent name="com.ztk.gulimall.redissontest" />
+      <recent name="com.ztk.gulimall.manage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gulimail1209\gulimall-api\src\main\java\com\ztk\gulimall\bean" />
+      <recent name="E:\gulimail1209\gulimall-api\src\main\java\com\ztk\gulimall\service" />
+      <recent name="E:\gulimail1209\gulimall-service-util\src\main\java\com\ztk\gulimall" />
+      <recent name="E:\gulimail1209\gulimall-order-service\src\main" />
+      <recent name="E:\gulimail1209\gulimall-order-web\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ztk.gulimall.bean" />
+      <recent name="com.ztk.gulimall.manage.controller" />
+      <recent name="com.gulimall.user.controller" />
+      <recent name="com.ztk.gulimall.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gulimail1209" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.69">
+    <configuration name="GulimallManageWebApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ztk.gulimall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ztk.gulimall.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.ztk.gulimall.manage.GulimallManageWebApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallManageWebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-manage-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ztk.gulimall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ztk.gulimall.manage" />
+      <option name="MAIN_CLASS_NAME" value="com.ztk.gulimall.manage.GulimallManageWebApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GmallCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GmallCartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GmallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderWebApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GmallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-passport-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.passport.GmallPassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPaymentApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GmallPaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallPaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="gulimall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.item.GulimallItemWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GulimallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallManageWeb1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.manage.GulimallManageWeb1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.manage.GulimallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.order.GulimallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GulimallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallRedissonTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-redisson-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.GulimallRedissonTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-search-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ztk.gulimall.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.search.GulimallSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.user.GulimallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ztk.gulimall.user.GulimallUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gulimall.user.GulimallUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GwareManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guliware-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GwareManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.69" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_study-gulimail1209" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="javadebug" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GulimallManageWebApplicationTests" />
+      <item itemvalue="JUnit.GulimallManageWebApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.GulimallItemWebApplication" />
+      <item itemvalue="Spring Boot.GulimallManageServiceApplication" />
+      <item itemvalue="Spring Boot.GulimallManageWeb1Application" />
+      <item itemvalue="Spring Boot.GulimallManageWebApplication" />
+      <item itemvalue="Spring Boot.GulimallRedissonTestApplication" />
+      <item itemvalue="Spring Boot.GulimallUserApplication" />
+      <item itemvalue="Spring Boot.GulimallUserServiceApplication" />
+      <item itemvalue="Spring Boot.GulimallUserWebApplication" />
+      <item itemvalue="Spring Boot.GmallCartServiceApplication" />
+      <item itemvalue="Spring Boot.GmallCartWebApplication" />
+      <item itemvalue="Spring Boot.GmallPassportWebApplication" />
+      <item itemvalue="Spring Boot.GulimallOrderWebApplication" />
+      <item itemvalue="Spring Boot.GulimallOrderServiceApplication" />
+      <item itemvalue="Spring Boot.GmallOrderWebApplication" />
+      <item itemvalue="Spring Boot.GmallOrderServiceApplication" />
+      <item itemvalue="Spring Boot.GmallPaymentApplication" />
+      <item itemvalue="Spring Boot.GmallOrderWebApplication (1)" />
+      <item itemvalue="Spring Boot.GmallOrderServiceApplication (1)" />
+      <item itemvalue="Spring Boot.GmallPaymentApplication (1)" />
+      <item itemvalue="Spring Boot.GmallSeckillApplication" />
+      <item itemvalue="Spring Boot.GwareManageApplication" />
+      <item itemvalue="Spring Boot.GmallSearchWebApplication" />
+      <item itemvalue="Spring Boot.GulimallSearchServiceApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.69" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GulimallSearchServiceApplication" />
+        <item itemvalue="JUnit.GulimallManageWebApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.GulimallManageWebApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ac8ec3-4950-4043-be9b-b6216eeca282" name="Default Changelist" comment="" />
+      <created>1575894758257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575894758257</updated>
+      <workItem from="1575894759537" duration="4908000" />
+      <workItem from="1575941626087" duration="21093000" />
+      <workItem from="1575984363077" duration="370000" />
+      <workItem from="1575984774345" duration="1360000" />
+      <workItem from="1575986641416" duration="5216000" />
+      <workItem from="1576030057896" duration="13835000" />
+      <workItem from="1576133178010" duration="12875000" />
+      <workItem from="1576309040149" duration="34438000" />
+      <workItem from="1576636389205" duration="33880000" />
+      <workItem from="1577071058464" duration="17929000" />
+      <workItem from="1577196702564" duration="389000" />
+      <workItem from="1577197094177" duration="4957000" />
+      <workItem from="1577240824634" duration="39857000" />
+      <workItem from="1577934109628" duration="1018000" />
+      <workItem from="1577935132940" duration="7120000" />
+      <workItem from="1577953897488" duration="2676000" />
+      <workItem from="1577956583550" duration="5285000" />
+      <workItem from="1577974504703" duration="442000" />
+      <workItem from="1577975191659" duration="2552000" />
+      <workItem from="1578113612474" duration="54000" />
+      <workItem from="1578114130965" duration="26000" />
+      <workItem from="1578114221486" duration="15000" />
+      <workItem from="1578115392300" duration="37000" />
+      <workItem from="1578116326053" duration="1474000" />
+      <workItem from="1578648893654" duration="622000" />
+      <workItem from="1586092758530" duration="4727000" />
+      <workItem from="1586352985341" duration="11445000" />
+      <workItem from="1587568681884" duration="1189000" />
+      <workItem from="1587716531114" duration="1040000" />
+      <workItem from="1588682693728" duration="524000" />
+      <workItem from="1628852487309" duration="265000" />
+      <workItem from="1628855019840" duration="623000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次版本修改">
+      <created>1575895627018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575895627018</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一天课程结束，实现了简单的增删改查">
+      <created>1575982504536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575982504536</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一天课程结束，实现了简单的增删改查">
+      <created>1575982689023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575982689023</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一天课程结束，实现了简单的增删改查">
+      <created>1575982913424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575982913424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改了springboot的版本号（1.5.21）（直接在porm文件中覆盖掉原来的版本依赖即可），通用mapper可以使用了。">
+      <created>1575986912766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575986912766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="开发了后台管理系统的基本功能，下一步将开始开发前台页面展示系统">
+      <created>1576810430297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576810430297</updated>
+    </task>
+    <task id="LOCAL-00007" summary="开发了后台管理系统的基本功能，下一步将开始开发前台页面展示系统">
+      <created>1576810536555</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576810536555</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次版本修改" />
+    <MESSAGE value="第一天课程结束，实现了简单的增删改查" />
+    <MESSAGE value="修改了springboot的版本号（1.5.21）（直接在porm文件中覆盖掉原来的版本依赖即可），通用mapper可以使用了。" />
+    <MESSAGE value="开发了后台管理系统的基本功能，下一步将开始开发前台页面展示系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="开发了后台管理系统的基本功能，下一步将开始开发前台页面展示系统" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628852561359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1628852561359" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1628852617780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1628852617780" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1628852542809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1628852542809" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gulimall-manage-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -10,3 +10,9 @@ gulimall-user-web这个模块使用的端口为：8080（即前端）
 #第三天课程：项目的前后端分离准备工作
 gulimall-manage-service这个模块使用的端口为：8071（即后端）
 gulimall-manage-web这个模块使用的端口为：8081（即前端）
+
+#第四天课程：开发后台商品管理系统
+
+#第五天课程：开发前端商品展示系统
+gulimall-item-service这个模块使用的端口为：8072（即后端）这个模块我们不需要再做，直接调用gulimall-manage-service这个模块即可
+gulimall-item-web这个模块使用的端口为：8085（即前端）

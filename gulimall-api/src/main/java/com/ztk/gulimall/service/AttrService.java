@@ -5,6 +5,7 @@ import com.ztk.gulimall.bean.PmsBaseAttrValue;
 import com.ztk.gulimall.bean.PmsBaseSaleAttr;
 
 import java.util.List;
+import java.util.Set;
 
 /**
  *所有web的service接口都定义在了这个模块里面，因为这是和前端约定好的，因此就单独放在了这里，在具体业务模块中只需要实现它即可
@@ -23,5 +24,6 @@ public interface AttrService {
     //4.查询所有符合属性值的商品（返回到前端）？
     List<PmsBaseSaleAttr> baseSaleAttrList();
 
-
+    //5.
+    List<PmsBaseAttrInfo> getAttrValueListByValueId(Set<String> valueIdSet);
 }
